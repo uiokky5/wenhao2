@@ -2,7 +2,8 @@
 
 I am a Master's student at the School of Artificial Intelligence, Xidian University. I am set to obtain my Master's degree in **2025**, advised by **YuWei Guo**. For my undergraduate studies, I attended the School of Computer Science at Xidian University, achieving a GPA of **3.7**. During my master's program, I have actively contributed to four significant projects in **Cross-Modal Person Re-identification (VI-ReID)**, **Brain Age Prediction**, and **Non-learned Operator based Deep Learning Models**. 
 
-<span style="color:red;">I intend to pursue a Ph.D. program with a focus on Multi-Modal Learning, especially within the realms of AI for Human or Societal Benefit. You can reach me at <strong>zwhxd2@stu.xidian.edu.cn</strong>.</span>
+<span style="color:red;">I intend to pursue a Ph.D. program with a focus on Multi-Modal Learning, especially within the realms of AI for Human or Societal Benefit. You can reach me at <strong><span style="color:red;">zwhxd2@stu.xidian.edu.cn</span></strong>.</span>
+
 
 
 
