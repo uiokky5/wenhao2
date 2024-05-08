@@ -8,7 +8,7 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 
 
 
-### EDUCATION AND QUALIFICATIONS
+## EDUCATION AND QUALIFICATIONS
 
 **Xidian University**    Artificial Intelligence (GPA 3.8/4.0)    M.S., 2025 (Expected)
 
@@ -41,7 +41,7 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 - Introduced a lightweight directional-aware network, achieving state-of-the-art performance at a significantly lower computational cost.
 - Submitted to Artificial Intelligence Review. (Revision Submitted)
 
-### PUBLICATIONS
+## PUBLICATIONS
 
 - Yuwei Guo, **Wenhao Zhang**, Yupeng Gao, Licheng Jiao, Rong Qu, Shuang Wang, Fang Liu, Jiabo Du. (2024). Revisiting Non-Learned Operators Based Deep Learning: A Lightweight Directional-Aware Network for Classification. In Artificial Intelligence Review. (Revision Submitted)
   
@@ -53,7 +53,7 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 
 **My current supervisor serves as the first author.**
 
-### PATENTS
+## PATENTS
 
 - Yuwei Guo, **Wenhao Zhang**, Jiabo Du, Wei Zhan. (2023). Cross-Modal Pedestrian Re-Identification Method Based on Spatial Data Augmentation and Symmetric Cross-Modal Attention. CN Patent, Application No. 202310838299.7.
   
@@ -61,7 +61,7 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
   
 - Yuwei Guo, Yupeng Gao, Jiabo Du, **Wenhao Zhang**. (2022). Image Classification Method based on Shearlet Networks and Directional Attention Mechanism. CN Patent, Application No. 202211044682.7.
 
-### HONORS AND AWARDS
+## HONORS AND AWARDS
 - Xidian First-Class Fellowship, Xidian University (2022-2023)
   
 - Xidian Scholarship, Xidian University (2018-2022)
