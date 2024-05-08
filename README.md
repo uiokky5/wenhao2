@@ -51,7 +51,7 @@ I am planning to pursue a Ph.D. program focusing on **Multi-Modal Learning**, pa
   
 - Yuwei Guo, Jiabo Du, Licheng Jiao, **Wenhao Zhang**, Shuo Wang, Shuang Wang and Liu Fang. (2023). Causal Consistency Model for Semi-supervised Classification. In Knowledge-based Systems. (Under Review)
 
-*My current supervisor serves as the first author.*
+**My current supervisor serves as the first author.**
 
 ## PATENTS
 
