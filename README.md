@@ -1,26 +1,33 @@
 # BIOGRAPGHY
 
-I am a Master's student at the School of Artificial Intelligence, Xidian University. I am set to obtain my Master's degree in **2025**, advised by YuWei Guo. For my undergraduate studies, I attended the School of Computer Science at Xidian University, achieving a GPA of **3.7**. During my master's program, I have actively contributed to four significant projects in **Cross-Modal Person Re-identification (VI-ReID)**, **Brain Age Prediction**, and **Non-learned Operator based Deep Learning Models**. 
+I am a Master's student at the School of Artificial Intelligence, Xidian University. I am set to obtain my Master's degree in **2025**, advised by **YuWei Guo**. For my undergraduate studies, I attended the School of Computer Science at Xidian University, achieving a GPA of **3.7**. During my master's program, I have actively contributed to four significant projects in **Cross-Modal Person Re-identification (VI-ReID)**, **Brain Age Prediction**, and **Non-learned Operator based Deep Learning Models**. 
 
 I am planning to pursue a Ph.D. program focusing on **Multi-Modal Learning**, particularly in the context of AI for Humans or Society.
+
+
+
 
 
 ## EDUCATION AND QUALIFICATIONS
 
 **Xidian University**    Artificial Intelligence (GPA 3.8/4.0)    M.S., 2025 (Expected)
+
 **Xidian University**    Computer Science        (GPA 3.7/4.0)    B.S. 2022  
 
 ## RESEARCH EXPERIENCE
 
 ### 2024
 
+![renet](imgs/Renet.png) **RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification (USL-VI-ReID)**
+- Proposed Hashing-based Metric to reliably measure the cross-modal similarity, improving the Rank-1 accuracy by 2.39% compared to the commonly used distance metrics.
+- Devised a Multi-directional Update module to efficiently bridge the modal gap, achieving SOTA performance.
+
+
 ![6-mon](imgs/6-mons.png) **A 6-month Internship at the Wan-Lab, University of Nebraska Medical Center**
 - Collaborated on advancing the project in predicting brain age using local image features of T1-MRI scans.
 - Optimized and enhanced the Local U-Net for Brain Age Prediction by utilizing the Swin Transformer. The code has been open-sourced and is available at [Wan Lab](https://github.com/wan-mlab/Swin-U-NET).
 
-![renet](imgs/Renet.png) **RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification (USL-VI-ReID)**
-- Proposed Hashing-based Metric to reliably measure the cross-modal similarity, improving the Rank-1 accuracy by 2.39% compared to the commonly used distance metrics.
-- Devised a Multi-directional Update module to efficiently bridge the modal gap, achieving SOTA performance.
+
 
 ### 2023
 
