@@ -19,12 +19,14 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 
 ### 2024
 
-![renet](imgs/Renet.png) **RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification (USL-VI-ReID)**
+ **RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification (USL-VI-ReID)**
+ ![renet](imgs/Renet.png)
 - Proposed Hashing-based Metric to reliably measure the cross-modal similarity, improving the Rank-1 accuracy by 2.39% compared to the commonly used distance metrics.
 - Devised a Multi-directional Update module to efficiently bridge the modal gap, achieving SOTA performance.
 
 
-![6-mon](imgs/6-mons.png) **A 6-month Internship at the Wan-Lab, University of Nebraska Medical Center**
+**A 6-month Internship at the Wan-Lab, University of Nebraska Medical Center**
+![6-mon](imgs/6-mons.png) 
 - Collaborated on advancing the project in predicting brain age using local image features of T1-MRI scans.
 - Optimized and enhanced the Local U-Net for Brain Age Prediction by utilizing the Swin Transformer. The code has been open-sourced and is available at [Wan Lab](https://github.com/wan-mlab/Swin-U-NET).
 
@@ -32,12 +34,14 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 
 ### 2023
 
-![tran](imgs/tran.png) **Transferring Modality-Aware Pedestrian Attentive Learning for Visible-Infrared Person Re-Identification (VI-ReID)**
+**Transferring Modality-Aware Pedestrian Attentive Learning for Visible-Infrared Person Re-Identification (VI-ReID)**
+![tran](imgs/tran.png)
 - Proposed a data augmentation PedMix, tailored for VI-ReID, effectively improving the mean Average Precision (mAP) by 4.67%.
 - Introduced a Modality Feature Transfer module, integrating cross-attention and convolution networks with minimum computational overhead, generating discriminative modality-complete features.
 - Submission Update: AAAI 2024 (3 wa & 1 wr) to TCSVT. The preprint is available at [Publication](https://arxiv.org/abs/2312.07021).
 
- ![ldan](imgs/ldan.png) **Lightweight Directional-Aware Network for Classification**
+**Lightweight Directional-Aware Network for Classification**
+ ![ldan](imgs/ldan.png)
 - Conducted a comprehensive review of all non-learned operators-based Deep Learning models, providing a classification of current methods.
 - Introduced a lightweight directional-aware network, achieving state-of-the-art performance at a significantly lower computational cost.
 - Submitted to Artificial Intelligence Review. (Revision Submitted)
