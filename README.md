@@ -14,40 +14,51 @@ I am planning to pursue a Ph.D. program focusing on **Multi-Modal Learning**, pa
 
 ### 2024
 
-[6-mon](imgs/6-mons.png) **A 6-month Internship at the Wan-Lab, University of Nebraska Medical Center**
+![6-mon](imgs/6-mons.png) **A 6-month Internship at the Wan-Lab, University of Nebraska Medical Center**
 - Collaborated on advancing the project in predicting brain age using local image features of T1-MRI scans.
 - Optimized and enhanced the Local U-Net for Brain Age Prediction by utilizing the Swin Transformer. The code has been open-sourced and is available at [Wan Lab](https://github.com/wan-mlab/Swin-U-NET).
 
-[renet](imgs/Renet.png) **RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification (USL-VI-ReID)**
+![renet](imgs/Renet.png) **RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification (USL-VI-ReID)**
 - Proposed Hashing-based Metric to reliably measure the cross-modal similarity, improving the Rank-1 accuracy by 2.39% compared to the commonly used distance metrics.
 - Devised a Multi-directional Update module to efficiently bridge the modal gap, achieving SOTA performance.
 
 ### 2023
 
-[tran](imgs/tran.png) **Transferring Modality-Aware Pedestrian Attentive Learning for Visible-Infrared Person Re-Identification (VI-ReID)**
+![tran](imgs/tran.png) **Transferring Modality-Aware Pedestrian Attentive Learning for Visible-Infrared Person Re-Identification (VI-ReID)**
 - Proposed a data augmentation PedMix, tailored for VI-ReID, effectively improving the mean Average Precision (mAP) by 4.67%.
 - Introduced a Modality Feature Transfer module, integrating cross-attention and convolution networks with minimum computational overhead, generating discriminative modality-complete features.
 - Submission Update: AAAI 2024 (3 wa & 1 wr) to TCSVT. The preprint is available at [PDF](https://arxiv.org/abs/2312.07021).
 
- [ldan](imgs/ldan.png) **Lightweight Directional-Aware Network for Classification**
+ ![ldan](imgs/ldan.png) **Lightweight Directional-Aware Network for Classification**
 - Conducted a comprehensive review of all non-learned operators-based Deep Learning models, providing a classification of current methods.
 - Introduced a lightweight directional-aware network, achieving state-of-the-art performance at a significantly lower computational cost.
 - Submitted to Artificial Intelligence Review. (Revision Submitted)
 
 ## PUBLICATIONS
+
 - Yuwei Guo, **Wenhao Zhang**, Yupeng Gao, Licheng Jiao, Rong Qu, Shuang Wang, Fang Liu, Jiabo Du. (2024). Revisiting Non-Learned Operators Based Deep Learning: A Lightweight Directional-Aware Network for Classification. In Artificial Intelligence Review. (Revision Submitted)
+  
 - Yuwei Guo, **Wenhao Zhang**, Licheng Jiao, Jiabo Du, Shuo Wang, Shuang Wang and Liu Fang. (2024). Transferring Modality-Aware Pedestrian Attentive Learning for Visible-Infrared Person Re-identification. In IEEE Transactions on Circuits and Systems for Video Technology. (Under Review)
+  
 - Yuwei Guo, **Wenhao Zhang**, Jiabo Du, Licheng Jiao, Rong Qu, Shuang Wang, Fang Liu, Wei Zhan. (2024). RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification.
+  
 - Yuwei Guo, Jiabo Du, Licheng Jiao, **Wenhao Zhang**, Shuo Wang, Shuang Wang and Liu Fang. (2023). Causal Consistency Model for Semi-supervised Classification. In Knowledge-based Systems. (Under Review)
+
 *My current supervisor serves as the first author.*
 
 ## PATENTS
+
 - Yuwei Guo, **Wenhao Zhang**, Jiabo Du, Wei Zhan. (2023). Cross-Modal Pedestrian Re-Identification Method Based on Spatial Data Augmentation and Symmetric Cross-Modal Attention. CN Patent, Application No. 202310838299.7.
+  
 - Yuwei Guo, Jiabo Du, **Wenhao Zhang**, Yupeng Gao. (2022). Causal Inference Based Semi-Supervised Image Classification Method. CN Patent, Application No. 202210896650.3.
+  
 - Yuwei Guo, Yupeng Gao, Jiabo Du, **Wenhao Zhang**. (2022). Image Classification Method based on Shearlet Networks and Directional Attention Mechanism. CN Patent, Application No. 202211044682.7.
 
 ## HONORS AND AWARDS
 - Xidian First-Class Fellowship, Xidian University (2022-2023)
+  
 - Xidian Scholarship, Xidian University (2018-2022)
+  
 - Provincial First Prize in the 8th China International College Students ‘Internet+’ Innovation and Entrepreneurship Competition Skills (2022)
+  
 - Provincial Second Prize in the 7th China International College Students ‘Internet+’ Innovation and Entrepreneurship Competition Skills (2021)
