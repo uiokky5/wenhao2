@@ -34,7 +34,7 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 ![tran](imgs/tran.png) **Transferring Modality-Aware Pedestrian Attentive Learning for Visible-Infrared Person Re-Identification (VI-ReID)**
 - Proposed a data augmentation PedMix, tailored for VI-ReID, effectively improving the mean Average Precision (mAP) by 4.67%.
 - Introduced a Modality Feature Transfer module, integrating cross-attention and convolution networks with minimum computational overhead, generating discriminative modality-complete features.
-- Submission Update: AAAI 2024 (3 wa & 1 wr) to TCSVT. The preprint is available at [PDF](https://arxiv.org/abs/2312.07021).
+- Submission Update: AAAI 2024 (3 wa & 1 wr) to TCSVT. The preprint is available at [Publication](https://arxiv.org/abs/2312.07021).
 
  ![ldan](imgs/ldan.png) **Lightweight Directional-Aware Network for Classification**
 - Conducted a comprehensive review of all non-learned operators-based Deep Learning models, providing a classification of current methods.
