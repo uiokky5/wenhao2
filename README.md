@@ -19,7 +19,7 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 
 ### 2024
 
- ### RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification (USL-VI-ReID)
+### RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification (USL-VI-ReID)
  ![renet](imgs/Renet.png)
 - Proposed Hashing-based Metric to reliably measure the cross-modal similarity, improving the Rank-1 accuracy by 2.39% compared to the commonly used distance metrics.
 - Devised a Multi-directional Update module to efficiently bridge the modal gap, achieving SOTA performance.
