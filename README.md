@@ -2,13 +2,13 @@
 
 I am a Master's student at the School of Artificial Intelligence, Xidian University. I am set to obtain my Master's degree in **2025**, advised by **YuWei Guo**. For my undergraduate studies, I attended the School of Computer Science at Xidian University, achieving a GPA of **3.7**. During my master's program, I have actively contributed to four significant projects in **Cross-Modal Person Re-identification (VI-ReID)**, **Brain Age Prediction**, and **Non-learned Operator based Deep Learning Models**. 
 
-I am planning to pursue a Ph.D. program focusing on **Multi-Modal Learning**, particularly in the context of AI for Humans or Society.
+<span style="color:red;">I am planning to pursue a Ph.D. program focusing on **Multi-Modal Learning**, particularly in the context of AI for Humans or Society.</span>
 
 
 
 
 
-## EDUCATION AND QUALIFICATIONS
+### EDUCATION AND QUALIFICATIONS
 
 **Xidian University**    Artificial Intelligence (GPA 3.8/4.0)    M.S., 2025 (Expected)
 
@@ -41,7 +41,7 @@ I am planning to pursue a Ph.D. program focusing on **Multi-Modal Learning**, pa
 - Introduced a lightweight directional-aware network, achieving state-of-the-art performance at a significantly lower computational cost.
 - Submitted to Artificial Intelligence Review. (Revision Submitted)
 
-## PUBLICATIONS
+### PUBLICATIONS
 
 - Yuwei Guo, **Wenhao Zhang**, Yupeng Gao, Licheng Jiao, Rong Qu, Shuang Wang, Fang Liu, Jiabo Du. (2024). Revisiting Non-Learned Operators Based Deep Learning: A Lightweight Directional-Aware Network for Classification. In Artificial Intelligence Review. (Revision Submitted)
   
@@ -53,7 +53,7 @@ I am planning to pursue a Ph.D. program focusing on **Multi-Modal Learning**, pa
 
 **My current supervisor serves as the first author.**
 
-## PATENTS
+### PATENTS
 
 - Yuwei Guo, **Wenhao Zhang**, Jiabo Du, Wei Zhan. (2023). Cross-Modal Pedestrian Re-Identification Method Based on Spatial Data Augmentation and Symmetric Cross-Modal Attention. CN Patent, Application No. 202310838299.7.
   
@@ -61,7 +61,7 @@ I am planning to pursue a Ph.D. program focusing on **Multi-Modal Learning**, pa
   
 - Yuwei Guo, Yupeng Gao, Jiabo Du, **Wenhao Zhang**. (2022). Image Classification Method based on Shearlet Networks and Directional Attention Mechanism. CN Patent, Application No. 202211044682.7.
 
-## HONORS AND AWARDS
+### HONORS AND AWARDS
 - Xidian First-Class Fellowship, Xidian University (2022-2023)
   
 - Xidian Scholarship, Xidian University (2018-2022)
