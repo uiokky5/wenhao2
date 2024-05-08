@@ -1,7 +1,8 @@
-# Wenhao Zhang
-**Xidian University**  
-Phone: (+86) 183-3840-2068  
-E-mail: zwhxd2@stu.xidian.edu.cn  
+## EDUCATION AND QUALIFICATIONS
+
+| **Xidian University** | Artificial Intelligence (GPA 3.8/4.0) M.S., 2025 (Expected) |
+|-----------------------|-----------------------------------------------------------|
+| **Xidian University** | Computer Science (GPA 3.7/4.0) B.S. 2022                  |
 
 ## SKILLS
 - **Scientific Research**
