@@ -1,6 +1,6 @@
 # BIOGRAPGHY
 
-I am a Master's student at the School of Artificial Intelligence, Xidian University. I am set to obtain my Master's degree in **2025**, advised by **YuWei Guo**. For my undergraduate studies, I attended the School of Computer Science at Xidian University, achieving a GPA of **3.7**. During my master's program, I have actively contributed to four significant projects in **Cross-Modal Person Re-identification (VI-ReID)**, **Brain Age Prediction**, and **Non-learned Operator based Deep Learning Models**. 
+I am a Master's student at the School of Artificial Intelligence, Xidian University. I am set to obtain my Master's degree in **2025**, advised by **YuWei Guo**. For my undergraduate studies, I attended the School of Computer Science at Xidian University, achieving a GPA of **3.7**. During my master's program, I have actively contributed to four significant projects in **[Cross-Modal Person Re-identification (VI-ReID)](### RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification (USL-VI-ReID))**, **[Brain Age Prediction](### A 6-month Internship at the Wan-Lab, University of Nebraska Medical Center)**, and **[Non-learned Operator based Deep Learning Models](### Lightweight Directional-Aware Network for Classification)**. 
 
 <span style="color:red;">I intend to pursue a Ph.D. program with a focus on Multi-Modal Learning, especially within the realms of AI for Human or Societal Benefit. You can reach me at <strong><span style="color:red;">zwhxd2@stu.xidian.edu.cn</span></strong>.</span>
 
@@ -19,13 +19,13 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 
 ### 2024
 
- **RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification (USL-VI-ReID)**
+ ### RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification (USL-VI-ReID)
  ![renet](imgs/Renet.png)
 - Proposed Hashing-based Metric to reliably measure the cross-modal similarity, improving the Rank-1 accuracy by 2.39% compared to the commonly used distance metrics.
 - Devised a Multi-directional Update module to efficiently bridge the modal gap, achieving SOTA performance.
 
 
-**A 6-month Internship at the Wan-Lab, University of Nebraska Medical Center**
+### A 6-month Internship at the Wan-Lab, University of Nebraska Medical Center
 ![6-mon](imgs/6-mons.png) 
 - Collaborated on advancing the project in predicting brain age using local image features of T1-MRI scans.
 - Optimized and enhanced the Local U-Net for Brain Age Prediction by utilizing the Swin Transformer. The code has been open-sourced and is available at [Wan Lab](https://github.com/wan-mlab/Swin-U-NET).
@@ -34,13 +34,13 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 
 ### 2023
 
-**Transferring Modality-Aware Pedestrian Attentive Learning for Visible-Infrared Person Re-Identification (VI-ReID)**
+### Transferring Modality-Aware Pedestrian Attentive Learning for Visible-Infrared Person Re-Identification (VI-ReID)
 ![tran](imgs/tran.png)
 - Proposed a data augmentation PedMix, tailored for VI-ReID, effectively improving the mean Average Precision (mAP) by 4.67%.
 - Introduced a Modality Feature Transfer module, integrating cross-attention and convolution networks with minimum computational overhead, generating discriminative modality-complete features.
 - Submission Update: AAAI 2024 (3 wa & 1 wr) to TCSVT. The preprint is available at [Publication](https://arxiv.org/abs/2312.07021).
 
-**Lightweight Directional-Aware Network for Classification**
+### Lightweight Directional-Aware Network for Classification
  ![ldan](imgs/ldan.png)
 - Conducted a comprehensive review of all non-learned operators-based Deep Learning models, providing a classification of current methods.
 - Introduced a lightweight directional-aware network, achieving state-of-the-art performance at a significantly lower computational cost.
