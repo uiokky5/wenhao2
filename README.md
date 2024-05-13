@@ -5,7 +5,7 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 <span style="color:red;">I intend to pursue a Ph.D. program in <strong><span style="color:red;">Fall 2025</span></strong> with a focus on Multi-Modal Learning, especially within the realms of AI for Human or Societal Benefit. You can reach me at <strong><span style="color:red;">zwhxd2@stu.xidian.edu.cn</span></strong>.</span>
 
 
-<center>[CV](https://drive.google.com/file/d/1OxV8laQgOSKskp1Yb82IsPLtXmcxO342/view?usp=sharing) / [Transcripts](https://drive.google.com/file/d/1xcmToOxUO-5K4zOhtL1fv6155P-Do1jO/view?usp=sharing) / SOP</center>
+[CV](https://drive.google.com/file/d/1OxV8laQgOSKskp1Yb82IsPLtXmcxO342/view?usp=sharing) / [Transcripts](https://drive.google.com/file/d/1xcmToOxUO-5K4zOhtL1fv6155P-Do1jO/view?usp=sharing) / SOP
 
 
 
