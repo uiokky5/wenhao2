@@ -25,10 +25,10 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 - Devised a Multi-directional Update module to efficiently bridge the modal gap, achieving SOTA performance.
 
 
-### A 6-month Internship at the Wan-Lab, University of Nebraska Medical Center
+### A 6-month Internship at the Wan Lab, University of Nebraska Medical Center
 ![6-mon](imgs/6-mons.png) 
 - Collaborated on advancing the project in predicting brain age using local image features of T1-MRI scans.
-- Optimized and enhanced the Local U-Net for Brain Age Prediction by utilizing the Swin Transformer. The code has been open-sourced and is available at [Wan Lab](https://github.com/wan-mlab/Swin-U-NET).
+- Optimized and enhanced the Local U-Net for Brain Age Prediction by utilizing the Swin Transformer Block. The code has been open-sourced and is available at [Wan Lab](https://github.com/wan-mlab/Swin-U-NET).
 
 
 
