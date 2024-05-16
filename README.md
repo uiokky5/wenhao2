@@ -80,3 +80,9 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 - Provincial First Prize in the 8th China International College Students ‘Internet+’ Innovation and Entrepreneurship Competition Skills (2022)
   
 - Provincial Second Prize in the 7th China International College Students ‘Internet+’ Innovation and Entrepreneurship Competition Skills (2021)
+
+
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-38995e91-a7cb-45d6-896b-242a0a73c3b9" data-elfsight-app-lazy></div>
+
+
