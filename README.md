@@ -35,7 +35,7 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 ![6-mon](imgs/6-mons.png) 
 - Collaborated on advancing the project in predicting brain age using local image features of T1-MRI scans.
 - Optimized and enhanced the Local U-Net for Brain Age Prediction by utilizing the Swin Transformer Block. The code has been open-sourced and is available at [Wan Lab](https://github.com/wan-mlab/Swin-U-NET).
-- Received a letter of [recommendation]([link](https://drive.google.com/file/d/1x6AKoVjEhMmwiqkJ1dMhTrJyqyB2seD-/view?usp=sharing)).
+- Received a letter of [recommendation](https://drive.google.com/file/d/1x6AKoVjEhMmwiqkJ1dMhTrJyqyB2seD-/view?usp=sharing).
 
 
 ### 2023
