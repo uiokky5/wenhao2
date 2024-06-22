@@ -6,7 +6,7 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1OxV8laQgOSKskp1Yb82IsPLtXmcxO342/view?usp=sharing">CV</a> /
+  <a href="https://drive.google.com/file/d/1F9KKlZCkGv1_0DFBkn14jUpMgga6ioCR/view?usp=sharing">CV</a> /
   <a href="https://drive.google.com/file/d/1xcmToOxUO-5K4zOhtL1fv6155P-Do1jO/view?usp=sharing">Transcripts</a> /
   <a href="https://drive.google.com/file/d/1HTpr5EVNL6zHajPNXRXVHoI-3cRrHmox/view?usp=sharing">SOP</a>
 </p>
