@@ -75,7 +75,7 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 - Yuwei Guo, Yupeng Gao, Jiabo Du, **Wenhao Zhang**. (2022). Image Classification Method based on Shearlet Networks and Directional Attention Mechanism. CN Patent, Application No. 202211044682.7.
 
 ## HONORS AND AWARDS
-- Xidian First-Class Fellowship, Xidian University (2022-2023)
+- Xidian First-Class Fellowship, Xidian University (2022-2024)
   
 - Xidian Scholarship, Xidian University (2018-2022)
   
