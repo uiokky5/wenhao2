@@ -8,7 +8,6 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 <p align="center">
   <a href="https://drive.google.com/file/d/1F9KKlZCkGv1_0DFBkn14jUpMgga6ioCR/view?usp=sharing">CV</a> /
   <a href="https://drive.google.com/file/d/1xcmToOxUO-5K4zOhtL1fv6155P-Do1jO/view?usp=sharing">Transcripts</a> /
-  <a href="https://drive.google.com/file/d/1HTpr5EVNL6zHajPNXRXVHoI-3cRrHmox/view?usp=sharing">SOP</a> /
   <a href="https://drive.google.com/file/d/1x6AKoVjEhMmwiqkJ1dMhTrJyqyB2seD-/view?usp=sharing">Reference Letter</a>
 </p>
 
@@ -41,25 +40,27 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 
 ### 2023
 
+### Lightweight Directional-Aware Network for Classification
+ ![ldan](imgs/ldan.png)
+- Conducted a comprehensive review of all non-learned operators-based Deep Learning models, providing a classification of current methods.
+- Introduced a lightweight directional-aware network, achieving state-of-the-art performance at a significantly lower computational cost.
+- Submission Update: Accepted by Artificial Intelligence Review (IF:10.7).
+
 ### Transferring Modality-Aware Pedestrian Attentive Learning for Visible-Infrared Person Re-Identification (VI-ReID)
 ![tran](imgs/tran.png)
 - Proposed a data augmentation PedMix, tailored for VI-ReID, effectively improving the mean Average Precision (mAP) by 4.67%.
 - Introduced a Modality Feature Transfer module, integrating cross-attention and convolution networks with minimum computational overhead, generating discriminative modality-complete features.
 - Submission Update: AAAI 2024 (3 wa & 1 wr) to TCSVT. The preprint is available at [Publication](https://arxiv.org/abs/2312.07021).
 
-### Lightweight Directional-Aware Network for Classification
- ![ldan](imgs/ldan.png)
-- Conducted a comprehensive review of all non-learned operators-based Deep Learning models, providing a classification of current methods.
-- Introduced a lightweight directional-aware network, achieving state-of-the-art performance at a significantly lower computational cost.
-- Submitted to Artificial Intelligence Review. (Revision Submitted)
+
 
 ## PUBLICATIONS
 
-- Yuwei Guo, **Wenhao Zhang**, Yupeng Gao, Licheng Jiao, Rong Qu, Shuang Wang, Fang Liu, Jiabo Du. (2024). Revisiting Non-Learned Operators Based Deep Learning: A Lightweight Directional-Aware Network for Classification. In Artificial Intelligence Review. (Revision Submitted)
+- Yuwei Guo, **Wenhao Zhang**, Yupeng Gao, Licheng Jiao, Rong Qu, Shuang Wang, Fang Liu, Jiabo Du. (2024). Revisiting Non-Learned Operators Based Deep Learning: A Lightweight Directional-Aware Network for Classification. In Artificial Intelligence Review.
   
 - Yuwei Guo, **Wenhao Zhang**, Licheng Jiao, Jiabo Du, Shuo Wang, Shuang Wang and Liu Fang. (2024). Transferring Modality-Aware Pedestrian Attentive Learning for Visible-Infrared Person Re-identification. In IEEE Transactions on Circuits and Systems for Video Technology. (Under Review)
   
-- Yuwei Guo, **Wenhao Zhang**, Jiabo Du, Licheng Jiao, Rong Qu, Shuang Wang, Fang Liu, Wei Zhan. (2024). RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification.
+- Yuwei Guo, **Wenhao Zhang**, Jiabo Du, Licheng Jiao, Rong Qu, Shuang Wang, Fang Liu, Wei Zhan. (2024). RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification. (Under Revision)
   
 - Yuwei Guo, Jiabo Du, Licheng Jiao, **Wenhao Zhang**, Shuo Wang, Shuang Wang and Liu Fang. (2023). Causal Consistency Model for Semi-supervised Classification. In Knowledge-based Systems. (Under Review)
 
