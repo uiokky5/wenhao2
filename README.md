@@ -7,8 +7,7 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1F9KKlZCkGv1_0DFBkn14jUpMgga6ioCR/view?usp=sharing">CV</a> /
-  <a href="https://drive.google.com/file/d/1xcmToOxUO-5K4zOhtL1fv6155P-Do1jO/view?usp=sharing">Transcripts</a> /
-  <a href="https://drive.google.com/file/d/1x6AKoVjEhMmwiqkJ1dMhTrJyqyB2seD-/view?usp=sharing">Reference Letter</a>
+  <a href="https://drive.google.com/file/d/1xcmToOxUO-5K4zOhtL1fv6155P-Do1jO/view?usp=sharing">Transcripts</a>
 </p>
 
 
@@ -35,7 +34,7 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 ![6-mon](imgs/6-mons.png) 
 - Collaborated on advancing the project in predicting brain age using local image features of T1-MRI scans.
 - Optimized and enhanced the Local U-Net for Brain Age Prediction by utilizing the Swin Transformer Block. The code has been open-sourced and is available at [Wan Lab](https://github.com/wan-mlab/Swin-U-NET).
-- Received a letter of [recommendation](https://drive.google.com/file/d/1x6AKoVjEhMmwiqkJ1dMhTrJyqyB2seD-/view?usp=sharing).
+- Secured a Strong Recommendation.
 
 
 ### 2023
