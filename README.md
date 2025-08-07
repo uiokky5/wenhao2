@@ -1,8 +1,5 @@
 # BIOGRAPGHY
-
-I am a Master's student at the School of Artificial Intelligence, Xidian University. I am set to obtain my Master's degree in **2025**, advised by Prof. **[Yuwei Guo](https://scholar.google.com/citations?user=DR-GIokAAAAJ&hl=en)**. For my undergraduate studies, I attended the School of Computer Science at Xidian University, achieving a GPA of **3.7**. During my master's program, I have actively contributed to four significant projects in **[Cross-Modal Person Re-identification (VI-ReID)](#renet-reliable-and-efficient-cross-modality-learning-for-unsupervised-visible-and-infrared-person-re-identification-usl-vi-reid)**, **[Brain Age Prediction](#a-6-month-internship-at-the-wan-lab-university-of-nebraska-medical-center)**, and **[Non-learned Operator based Deep Learning Models](#lightweight-directional-aware-network-for-classification)**. 
-
-<span style="color:red;">My research interests primarily focus on multimodal applications, aiming to explore innovative solutions at the intersection of AI and its applications for society and humanity. I intend to pursue a Ph.D. program in <strong><span style="color:red;">Fall 2025</span></strong>. You can reach me at <strong><span style="color:red;">zwhxd2@stu.xidian.edu.cn</span></strong>.</span>
+I am a Ph.D student at School of Data Science, University of Virginia. My advisor is Prof. **[Sheng Li](https://sheng-li.org/)**. Before that, I was a Master's student at the School of Artificial Intelligence, Xidian University, advised by Prof. **[Yuwei Guo](https://scholar.google.com/citations?user=DR-GIokAAAAJ&hl=en)**. For my undergraduate studies, I attended the School of Computer Science at Xidian University. 
 
 
 <p align="center">
@@ -49,21 +46,14 @@ I am a Master's student at the School of Artificial Intelligence, Xidian Univers
 ![tran](imgs/tran.png)
 - Proposed a data augmentation PedMix, tailored for VI-ReID, effectively improving the mean Average Precision (mAP) by 4.67%.
 - Introduced a Modality Feature Transfer module, integrating cross-attention and convolution networks with minimum computational overhead, generating discriminative modality-complete features.
-- Submission Update: AAAI 2024 (3 wa & 1 wr) to TCSVT. The preprint is available at [Publication](https://arxiv.org/abs/2312.07021).
-
+- Submission Update: AAAI 2024 (3 wa & 1 wr) to SP.
 
 
 ## PUBLICATIONS
 
 - Yuwei Guo, **Wenhao Zhang**, Yupeng Gao, Licheng Jiao, Rong Qu, Shuang Wang, Fang Liu, Jiabo Du. (2024). Revisiting Non-Learned Operators Based Deep Learning: A Lightweight Directional-Aware Network for Classification. In Artificial Intelligence Review.
   
-- Yuwei Guo, **Wenhao Zhang**, Licheng Jiao, Jiabo Du, Shuo Wang, Shuang Wang and Liu Fang. (2024). Transferring Modality-Aware Pedestrian Attentive Learning for Visible-Infrared Person Re-identification. In IEEE Transactions on Circuits and Systems for Video Technology. (Under Review)
-  
-- Yuwei Guo, **Wenhao Zhang**, Jiabo Du, Licheng Jiao, Rong Qu, Shuang Wang, Fang Liu, Wei Zhan. (2024). RENet: Reliable and Efficient Cross Modality Learning for Unsupervised Visible and Infrared Person Re-identification. (Under Revision)
-  
-- Yuwei Guo, Jiabo Du, Licheng Jiao, **Wenhao Zhang**, Shuo Wang, Shuang Wang and Liu Fang. (2023). Causal Consistency Model for Semi-supervised Classification. In Knowledge-based Systems. (Under Review)
-
-**My current supervisor serves as the first author.**
+- Yuwei Guo, **Wenhao Zhang**, Licheng Jiao, Jiabo Du, Shuo Wang, Shuang Wang and Liu Fang. (2024). Visible-infrared person re-identification with region-based augmentation and cross modality attention. In Scientific Reports.
 
 ## PATENTS
 
