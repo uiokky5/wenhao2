@@ -4,7 +4,6 @@ I am a Ph.D student at School of Data Science, University of Virginia. My adviso
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1F9KKlZCkGv1_0DFBkn14jUpMgga6ioCR/view?usp=sharing">CV</a> /
-  <a href="https://drive.google.com/file/d/1xcmToOxUO-5K4zOhtL1fv6155P-Do1jO/view?usp=sharing">Transcripts</a>
 </p>
 
 
